@@ -94,7 +94,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## Running the Project
 
 ```bash
-python retail_sales_analysis.py
+python real_world_data_project.py
 ```
 
 ## Expected Outcome
@@ -107,7 +107,7 @@ This project demonstrates how data science techniques can be applied to real-wor
 Retail-Sales-Analysis/
 │
 ├── SampleSuperstore.csv
-├── retail_sales_analysis.py
+├── real_world_data_project.py
 ├── README.md
 └── requirements.txt
 ```
